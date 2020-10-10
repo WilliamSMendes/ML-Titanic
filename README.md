@@ -11,5 +11,5 @@ Os dados são: train.csv, test.csv e gender_submission.csv
 **O gender_submission.csv é a baseline para comparar a acurácia do modelo**
 
 
-O código segue todo comentado com análise de dados, split e validação.
+O notebook segue todo comentado com análise de dados, split e validação (notebook-4-titanic.ipynb)
 
