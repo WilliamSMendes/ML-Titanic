@@ -13,3 +13,9 @@ Os dados são: train.csv, test.csv e gender_submission.csv
 
 O notebook segue todo comentado com análise de dados, split e validação (notebook-4-titanic.ipynb)
 
+
+# Proposta do desafio:
+
+
+Com base nos dados (idade, gênero, patente, cabine, etc) construir um modelo de classificação que prevê a sobrevivência dos tripulantes do navio na hora do desastre.
+
